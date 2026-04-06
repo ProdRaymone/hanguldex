@@ -1,50 +1,72 @@
 /**
- * 音频播放工具 — 预留 Web Audio API 接口
- * 当前阶段使用 SpeechSynthesis 作为 placeholder，
- * 后续替换为预录音频文件 + Web Audio API
+ * Korean pronunciation audio utility
+ *
+ * Uses Web Speech API (SpeechSynthesis) with ko-KR voice.
+ * Prefers a native Korean voice if available, otherwise falls back
+ * to the default ko-KR utterance.
+ *
+ * Future: when real audio files are added under /audio/,
+ * call playFromUrl() and fall back to TTS on error.
  */
 
-let audioContext: AudioContext | null = null;
+let cachedVoice: SpeechSynthesisVoice | null = null;
+let voiceResolved = false;
 
-function getAudioContext(): AudioContext {
-  if (!audioContext) {
-    audioContext = new AudioContext();
-  }
-  return audioContext;
+/**
+ * Find the best available Korean voice.
+ * Voices load asynchronously in some browsers, so we listen for the
+ * voiceschanged event and cache the result.
+ */
+function resolveKoreanVoice(): SpeechSynthesisVoice | null {
+  if (voiceResolved) return cachedVoice;
+  if (typeof window === "undefined" || !window.speechSynthesis) return null;
+
+  const voices = window.speechSynthesis.getVoices();
+  // prefer native Korean voices (Google, Microsoft, Apple)
+  cachedVoice =
+    voices.find((v) => v.lang === "ko-KR" && !v.localService) ??
+    voices.find((v) => v.lang === "ko-KR") ??
+    voices.find((v) => v.lang.startsWith("ko")) ??
+    null;
+
+  if (voices.length > 0) voiceResolved = true;
+  return cachedVoice;
+}
+
+// Listen for async voice list load
+if (typeof window !== "undefined" && window.speechSynthesis) {
+  window.speechSynthesis.addEventListener("voiceschanged", () => {
+    voiceResolved = false;
+    resolveKoreanVoice();
+  });
 }
 
 /**
- * 播放韩文字符发音
- * TODO: 替换为真实音频文件加载
+ * Play Korean pronunciation for the given text.
+ * This is the single entry point — all components should call this.
  */
-export function playCharacterAudio(character: string, audioUrl?: string): void {
-  // 优先尝试加载音频文件
-  if (audioUrl) {
-    playFromUrl(audioUrl).catch(() => {
-      // 音频文件不存在时回退到 TTS
-      playWithTTS(character);
-    });
-    return;
-  }
-  playWithTTS(character);
-}
-
-async function playFromUrl(url: string): Promise<void> {
-  const ctx = getAudioContext();
-  const response = await fetch(url);
-  if (!response.ok) throw new Error("Audio not found");
-  const arrayBuffer = await response.arrayBuffer();
-  const audioBuffer = await ctx.decodeAudioData(arrayBuffer);
-  const source = ctx.createBufferSource();
-  source.buffer = audioBuffer;
-  source.connect(ctx.destination);
-  source.start();
-}
-
-function playWithTTS(text: string): void {
+export function playKorean(text: string): void {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
+
+  // Cancel any in-progress utterance to avoid overlap
+  window.speechSynthesis.cancel();
+
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "ko-KR";
   utterance.rate = 0.8;
+  utterance.pitch = 1;
+  utterance.volume = 1;
+
+  const voice = resolveKoreanVoice();
+  if (voice) utterance.voice = voice;
+
   window.speechSynthesis.speak(utterance);
+}
+
+/**
+ * Backward-compatible alias — used by existing components.
+ * Ignores audioUrl (no real audio files exist yet) and uses TTS directly.
+ */
+export function playCharacterAudio(character: string, _audioUrl?: string): void {
+  playKorean(character);
 }
