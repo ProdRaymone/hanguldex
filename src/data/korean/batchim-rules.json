@@ -1,0 +1,38 @@
+{
+  "representativeSounds": ["ㄱ", "ㄴ", "ㄷ", "ㄹ", "ㅁ", "ㅂ", "ㅇ"],
+  "rules": [
+    { "batchim": "ㄱ", "representative": "ㄱ", "pronunciation": "k", "example": "각 → [각]", "type": "single" },
+    { "batchim": "ㄲ", "representative": "ㄱ", "pronunciation": "k", "example": "밖 → [박]", "type": "single" },
+    { "batchim": "ㅋ", "representative": "ㄱ", "pronunciation": "k", "example": "부엌 → [부억]", "type": "single" },
+    { "batchim": "ㄳ", "representative": "ㄱ", "pronunciation": "k", "example": "넋 → [넉]", "type": "double" },
+    { "batchim": "ㄺ", "representative": "ㄱ", "pronunciation": "k", "example": "읽다 → [익따]", "type": "double" },
+
+    { "batchim": "ㄴ", "representative": "ㄴ", "pronunciation": "n", "example": "간 → [간]", "type": "single" },
+    { "batchim": "ㄵ", "representative": "ㄴ", "pronunciation": "n", "example": "앉다 → [안따]", "type": "double" },
+    { "batchim": "ㄶ", "representative": "ㄴ", "pronunciation": "n", "example": "않다 → [안타]", "type": "double" },
+
+    { "batchim": "ㄷ", "representative": "ㄷ", "pronunciation": "t", "example": "곧 → [곧]", "type": "single" },
+    { "batchim": "ㅅ", "representative": "ㄷ", "pronunciation": "t", "example": "옷 → [옫]", "type": "single" },
+    { "batchim": "ㅆ", "representative": "ㄷ", "pronunciation": "t", "example": "있다 → [읻따]", "type": "single" },
+    { "batchim": "ㅈ", "representative": "ㄷ", "pronunciation": "t", "example": "낮 → [낟]", "type": "single" },
+    { "batchim": "ㅊ", "representative": "ㄷ", "pronunciation": "t", "example": "꽃 → [꼳]", "type": "single" },
+    { "batchim": "ㅌ", "representative": "ㄷ", "pronunciation": "t", "example": "밭 → [밧]", "type": "single" },
+    { "batchim": "ㅎ", "representative": "ㄷ", "pronunciation": "t", "example": "놓다 → [녿따]", "type": "single" },
+
+    { "batchim": "ㄹ", "representative": "ㄹ", "pronunciation": "l", "example": "달 → [달]", "type": "single" },
+    { "batchim": "ㄼ", "representative": "ㄹ", "pronunciation": "l", "example": "밟다 → [밥따]", "type": "double" },
+    { "batchim": "ㄽ", "representative": "ㄹ", "pronunciation": "l", "example": "외곬 → [외골]", "type": "double" },
+    { "batchim": "ㄾ", "representative": "ㄹ", "pronunciation": "l", "example": "핥다 → [할따]", "type": "double" },
+    { "batchim": "ㅀ", "representative": "ㄹ", "pronunciation": "l", "example": "잃다 → [일타]", "type": "double" },
+
+    { "batchim": "ㅁ", "representative": "ㅁ", "pronunciation": "m", "example": "감 → [감]", "type": "single" },
+    { "batchim": "ㄻ", "representative": "ㅁ", "pronunciation": "m", "example": "삶 → [삼]", "type": "double" },
+
+    { "batchim": "ㅂ", "representative": "ㅂ", "pronunciation": "p", "example": "밥 → [밥]", "type": "single" },
+    { "batchim": "ㅍ", "representative": "ㅂ", "pronunciation": "p", "example": "앞 → [압]", "type": "single" },
+    { "batchim": "ㄿ", "representative": "ㅂ", "pronunciation": "p", "example": "읊다 → [읍따]", "type": "double" },
+    { "batchim": "ㅄ", "representative": "ㅂ", "pronunciation": "p", "example": "없다 → [업따]", "type": "double" },
+
+    { "batchim": "ㅇ", "representative": "ㅇ", "pronunciation": "ng", "example": "강 → [강]", "type": "single" }
+  ]
+}

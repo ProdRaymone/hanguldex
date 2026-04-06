@@ -1,0 +1,116 @@
+{
+  "groups": [
+    {
+      "id": "visual_vowel_1",
+      "name": "ㅏ vs ㅓ",
+      "category": "visual",
+      "description": "方向相反的阳性/阴性元音对",
+      "characters": ["ㅏ", "ㅓ"],
+      "difficulty": 1
+    },
+    {
+      "id": "visual_vowel_2",
+      "name": "ㅗ vs ㅜ",
+      "category": "visual",
+      "description": "方向相反的阳性/阴性元音对",
+      "characters": ["ㅗ", "ㅜ"],
+      "difficulty": 1
+    },
+    {
+      "id": "visual_vowel_3",
+      "name": "ㅑ vs ㅕ",
+      "category": "visual",
+      "description": "带 y 化的方向相反元音对",
+      "characters": ["ㅑ", "ㅕ"],
+      "difficulty": 2
+    },
+    {
+      "id": "visual_vowel_4",
+      "name": "ㅛ vs ㅠ",
+      "category": "visual",
+      "description": "带 y 化的方向相反元音对",
+      "characters": ["ㅛ", "ㅠ"],
+      "difficulty": 2
+    },
+    {
+      "id": "visual_consonant_1",
+      "name": "ㄱ vs ㅋ",
+      "category": "visual",
+      "description": "基础辅音与送气辅音视觉相似",
+      "characters": ["ㄱ", "ㅋ"],
+      "difficulty": 2
+    },
+    {
+      "id": "visual_consonant_2",
+      "name": "ㄴ vs ㄹ",
+      "category": "visual",
+      "description": "齿龈音辅音外形相似",
+      "characters": ["ㄴ", "ㄹ"],
+      "difficulty": 2
+    },
+    {
+      "id": "visual_consonant_3",
+      "name": "ㅡ vs ㅣ",
+      "category": "visual",
+      "description": "水平笔画 vs 垂直笔画的中性元音",
+      "characters": ["ㅡ", "ㅣ"],
+      "difficulty": 1
+    },
+    {
+      "id": "phonetic_ae_e",
+      "name": "ㅐ vs ㅔ",
+      "category": "phonetic",
+      "description": "现代韩语中发音几乎合并的元音对",
+      "characters": ["ㅐ", "ㅔ"],
+      "difficulty": 3
+    },
+    {
+      "id": "phonetic_compound",
+      "name": "ㅚ vs ㅞ vs ㅙ",
+      "category": "phonetic",
+      "description": "发音相近的复合元音组",
+      "characters": ["ㅚ", "ㅞ", "ㅙ"],
+      "difficulty": 4
+    },
+    {
+      "id": "tense_velar",
+      "name": "ㄱ / ㄲ / ㅋ",
+      "category": "tense_aspirated",
+      "description": "软腭音：松音 / 紧音 / 送气音",
+      "characters": ["ㄱ", "ㄲ", "ㅋ"],
+      "difficulty": 3
+    },
+    {
+      "id": "tense_alveolar",
+      "name": "ㄷ / ㄸ / ㅌ",
+      "category": "tense_aspirated",
+      "description": "齿龈音：松音 / 紧音 / 送气音",
+      "characters": ["ㄷ", "ㄸ", "ㅌ"],
+      "difficulty": 3
+    },
+    {
+      "id": "tense_bilabial",
+      "name": "ㅂ / ㅃ / ㅍ",
+      "category": "tense_aspirated",
+      "description": "双唇音：松音 / 紧音 / 送气音",
+      "characters": ["ㅂ", "ㅃ", "ㅍ"],
+      "difficulty": 3
+    },
+    {
+      "id": "tense_fricative",
+      "name": "ㅅ vs ㅆ",
+      "category": "tense_aspirated",
+      "description": "齿龈擦音：松音 / 紧音",
+      "characters": ["ㅅ", "ㅆ"],
+      "difficulty": 3
+    },
+    {
+      "id": "tense_palatal",
+      "name": "ㅈ / ㅉ / ㅊ",
+      "category": "tense_aspirated",
+      "description": "龈腭音：松音 / 紧音 / 送气音",
+      "characters": ["ㅈ", "ㅉ", "ㅊ"],
+      "difficulty": 3
+    }
+  ]
+}

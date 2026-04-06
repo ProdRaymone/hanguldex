@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "syl_cv_001",
+    "block": "가",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ga",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_002",
+    "block": "갸",
+    "initial": "ㄱ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "gya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_003",
+    "block": "거",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "geo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_004",
+    "block": "겨",
+    "initial": "ㄱ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "gyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_005",
+    "block": "고",
+    "initial": "ㄱ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "go",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_006",
+    "block": "교",
+    "initial": "ㄱ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "gyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_007",
+    "block": "구",
+    "initial": "ㄱ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "gu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_008",
+    "block": "규",
+    "initial": "ㄱ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "gyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_009",
+    "block": "그",
+    "initial": "ㄱ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "geu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_010",
+    "block": "기",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "gi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_011",
+    "block": "나",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "na",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_012",
+    "block": "냐",
+    "initial": "ㄴ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "nya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_013",
+    "block": "너",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "neo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_014",
+    "block": "녀",
+    "initial": "ㄴ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "nyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_015",
+    "block": "노",
+    "initial": "ㄴ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "no",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_016",
+    "block": "뇨",
+    "initial": "ㄴ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "nyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_017",
+    "block": "누",
+    "initial": "ㄴ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "nu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_018",
+    "block": "뉴",
+    "initial": "ㄴ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "nyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_019",
+    "block": "느",
+    "initial": "ㄴ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "neu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_020",
+    "block": "니",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "ni",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_021",
+    "block": "다",
+    "initial": "ㄷ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "da",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_022",
+    "block": "댜",
+    "initial": "ㄷ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "dya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_023",
+    "block": "더",
+    "initial": "ㄷ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "deo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_024",
+    "block": "뎌",
+    "initial": "ㄷ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "dyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_025",
+    "block": "도",
+    "initial": "ㄷ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "do",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_026",
+    "block": "됴",
+    "initial": "ㄷ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "dyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_027",
+    "block": "두",
+    "initial": "ㄷ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "du",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_028",
+    "block": "듀",
+    "initial": "ㄷ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "dyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_029",
+    "block": "드",
+    "initial": "ㄷ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "deu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_030",
+    "block": "디",
+    "initial": "ㄷ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "di",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_031",
+    "block": "라",
+    "initial": "ㄹ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ra",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_032",
+    "block": "랴",
+    "initial": "ㄹ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "rya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_033",
+    "block": "러",
+    "initial": "ㄹ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "reo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_034",
+    "block": "려",
+    "initial": "ㄹ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "ryeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_035",
+    "block": "로",
+    "initial": "ㄹ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "ro",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_036",
+    "block": "료",
+    "initial": "ㄹ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "ryo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_037",
+    "block": "루",
+    "initial": "ㄹ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "ru",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_038",
+    "block": "류",
+    "initial": "ㄹ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "ryu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_039",
+    "block": "르",
+    "initial": "ㄹ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "reu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_040",
+    "block": "리",
+    "initial": "ㄹ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "ri",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_041",
+    "block": "마",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ma",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_042",
+    "block": "먀",
+    "initial": "ㅁ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "mya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_043",
+    "block": "머",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "meo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_044",
+    "block": "며",
+    "initial": "ㅁ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "myeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_045",
+    "block": "모",
+    "initial": "ㅁ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "mo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_046",
+    "block": "묘",
+    "initial": "ㅁ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "myo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_047",
+    "block": "무",
+    "initial": "ㅁ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "mu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_048",
+    "block": "뮤",
+    "initial": "ㅁ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "myu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_049",
+    "block": "므",
+    "initial": "ㅁ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "meu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_050",
+    "block": "미",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "mi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_051",
+    "block": "바",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ba",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_052",
+    "block": "뱌",
+    "initial": "ㅂ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "bya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_053",
+    "block": "버",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "beo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_054",
+    "block": "벼",
+    "initial": "ㅂ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "byeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_055",
+    "block": "보",
+    "initial": "ㅂ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "bo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_056",
+    "block": "뵤",
+    "initial": "ㅂ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "byo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_057",
+    "block": "부",
+    "initial": "ㅂ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "bu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_058",
+    "block": "뷰",
+    "initial": "ㅂ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "byu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_059",
+    "block": "브",
+    "initial": "ㅂ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "beu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_060",
+    "block": "비",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "bi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_061",
+    "block": "사",
+    "initial": "ㅅ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "sa",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_062",
+    "block": "샤",
+    "initial": "ㅅ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "sya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_063",
+    "block": "서",
+    "initial": "ㅅ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "seo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_064",
+    "block": "셔",
+    "initial": "ㅅ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "syeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_065",
+    "block": "소",
+    "initial": "ㅅ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "so",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_066",
+    "block": "쇼",
+    "initial": "ㅅ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "syo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_067",
+    "block": "수",
+    "initial": "ㅅ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "su",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_068",
+    "block": "슈",
+    "initial": "ㅅ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "syu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_069",
+    "block": "스",
+    "initial": "ㅅ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "seu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_070",
+    "block": "시",
+    "initial": "ㅅ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "si",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_071",
+    "block": "아",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "a",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_072",
+    "block": "야",
+    "initial": "ㅇ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "ya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_073",
+    "block": "어",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "eo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_074",
+    "block": "여",
+    "initial": "ㅇ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "yeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_075",
+    "block": "오",
+    "initial": "ㅇ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "o",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_076",
+    "block": "요",
+    "initial": "ㅇ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "yo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_077",
+    "block": "우",
+    "initial": "ㅇ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "u",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_078",
+    "block": "유",
+    "initial": "ㅇ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "yu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_079",
+    "block": "으",
+    "initial": "ㅇ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "eu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_080",
+    "block": "이",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "i",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_081",
+    "block": "자",
+    "initial": "ㅈ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ja",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_082",
+    "block": "쟈",
+    "initial": "ㅈ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "jya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_083",
+    "block": "저",
+    "initial": "ㅈ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "jeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_084",
+    "block": "져",
+    "initial": "ㅈ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "jyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_085",
+    "block": "조",
+    "initial": "ㅈ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "jo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_086",
+    "block": "죠",
+    "initial": "ㅈ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "jyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_087",
+    "block": "주",
+    "initial": "ㅈ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "ju",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_088",
+    "block": "쥬",
+    "initial": "ㅈ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "jyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_089",
+    "block": "즈",
+    "initial": "ㅈ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "jeu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_090",
+    "block": "지",
+    "initial": "ㅈ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "ji",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_091",
+    "block": "차",
+    "initial": "ㅊ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "cha",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_092",
+    "block": "챠",
+    "initial": "ㅊ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "chya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_093",
+    "block": "처",
+    "initial": "ㅊ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "cheo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_094",
+    "block": "쳐",
+    "initial": "ㅊ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "chyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_095",
+    "block": "초",
+    "initial": "ㅊ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "cho",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_096",
+    "block": "쵸",
+    "initial": "ㅊ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "chyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_097",
+    "block": "추",
+    "initial": "ㅊ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "chu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_098",
+    "block": "츄",
+    "initial": "ㅊ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "chyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_099",
+    "block": "츠",
+    "initial": "ㅊ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "cheu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_100",
+    "block": "치",
+    "initial": "ㅊ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "chi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_101",
+    "block": "카",
+    "initial": "ㅋ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ka",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_102",
+    "block": "캬",
+    "initial": "ㅋ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "kya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_103",
+    "block": "커",
+    "initial": "ㅋ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "keo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_104",
+    "block": "켜",
+    "initial": "ㅋ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "kyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_105",
+    "block": "코",
+    "initial": "ㅋ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "ko",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_106",
+    "block": "쿄",
+    "initial": "ㅋ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "kyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_107",
+    "block": "쿠",
+    "initial": "ㅋ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "ku",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_108",
+    "block": "큐",
+    "initial": "ㅋ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "kyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_109",
+    "block": "크",
+    "initial": "ㅋ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "keu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_110",
+    "block": "키",
+    "initial": "ㅋ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "ki",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_111",
+    "block": "타",
+    "initial": "ㅌ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ta",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_112",
+    "block": "탸",
+    "initial": "ㅌ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "tya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_113",
+    "block": "터",
+    "initial": "ㅌ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "teo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_114",
+    "block": "텨",
+    "initial": "ㅌ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "tyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_115",
+    "block": "토",
+    "initial": "ㅌ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "to",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_116",
+    "block": "툐",
+    "initial": "ㅌ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "tyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_117",
+    "block": "투",
+    "initial": "ㅌ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "tu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_118",
+    "block": "튜",
+    "initial": "ㅌ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "tyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_119",
+    "block": "트",
+    "initial": "ㅌ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "teu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_120",
+    "block": "티",
+    "initial": "ㅌ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "ti",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_121",
+    "block": "파",
+    "initial": "ㅍ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "pa",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_122",
+    "block": "퍄",
+    "initial": "ㅍ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "pya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_123",
+    "block": "퍼",
+    "initial": "ㅍ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "peo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_124",
+    "block": "펴",
+    "initial": "ㅍ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "pyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_125",
+    "block": "포",
+    "initial": "ㅍ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "po",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_126",
+    "block": "표",
+    "initial": "ㅍ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "pyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_127",
+    "block": "푸",
+    "initial": "ㅍ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "pu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_128",
+    "block": "퓨",
+    "initial": "ㅍ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "pyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_129",
+    "block": "프",
+    "initial": "ㅍ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "peu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_130",
+    "block": "피",
+    "initial": "ㅍ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "pi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_131",
+    "block": "하",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": null,
+    "romanization": "ha",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_132",
+    "block": "햐",
+    "initial": "ㅎ",
+    "medial": "ㅑ",
+    "final": null,
+    "romanization": "hya",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_133",
+    "block": "허",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": null,
+    "romanization": "heo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_134",
+    "block": "혀",
+    "initial": "ㅎ",
+    "medial": "ㅕ",
+    "final": null,
+    "romanization": "hyeo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_135",
+    "block": "호",
+    "initial": "ㅎ",
+    "medial": "ㅗ",
+    "final": null,
+    "romanization": "ho",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_136",
+    "block": "효",
+    "initial": "ㅎ",
+    "medial": "ㅛ",
+    "final": null,
+    "romanization": "hyo",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_137",
+    "block": "후",
+    "initial": "ㅎ",
+    "medial": "ㅜ",
+    "final": null,
+    "romanization": "hu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_138",
+    "block": "휴",
+    "initial": "ㅎ",
+    "medial": "ㅠ",
+    "final": null,
+    "romanization": "hyu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_139",
+    "block": "흐",
+    "initial": "ㅎ",
+    "medial": "ㅡ",
+    "final": null,
+    "romanization": "heu",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cv_140",
+    "block": "히",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": null,
+    "romanization": "hi",
+    "structure": "CV",
+    "difficulty": 1
+  },
+  {
+    "id": "syl_cvc_001",
+    "block": "각",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "gak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_002",
+    "block": "간",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "gan",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_003",
+    "block": "갇",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "gat",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_004",
+    "block": "갈",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "gal",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_005",
+    "block": "감",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "gam",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_006",
+    "block": "갑",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "gap",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_007",
+    "block": "강",
+    "initial": "ㄱ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "gang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_008",
+    "block": "걱",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "geok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_009",
+    "block": "건",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "geon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_010",
+    "block": "걷",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "geot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_011",
+    "block": "걸",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "geol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_012",
+    "block": "검",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "geom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_013",
+    "block": "겁",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "geop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_014",
+    "block": "겅",
+    "initial": "ㄱ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "geong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_015",
+    "block": "긱",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "gik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_016",
+    "block": "긴",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "gin",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_017",
+    "block": "긷",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "git",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_018",
+    "block": "길",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "gil",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_019",
+    "block": "김",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "gim",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_020",
+    "block": "깁",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "gip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_021",
+    "block": "깅",
+    "initial": "ㄱ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "ging",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_022",
+    "block": "낙",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "nak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_023",
+    "block": "난",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "nan",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_024",
+    "block": "낟",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "nat",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_025",
+    "block": "날",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "nal",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_026",
+    "block": "남",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "nam",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_027",
+    "block": "납",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "nap",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_028",
+    "block": "낭",
+    "initial": "ㄴ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "nang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_029",
+    "block": "넉",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "neok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_030",
+    "block": "넌",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "neon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_031",
+    "block": "넏",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "neot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_032",
+    "block": "널",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "neol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_033",
+    "block": "넘",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "neom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_034",
+    "block": "넙",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "neop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_035",
+    "block": "넝",
+    "initial": "ㄴ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "neong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_036",
+    "block": "닉",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "nik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_037",
+    "block": "닌",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "nin",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_038",
+    "block": "닏",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "nit",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_039",
+    "block": "닐",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "nil",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_040",
+    "block": "님",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "nim",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_041",
+    "block": "닙",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "nip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_042",
+    "block": "닝",
+    "initial": "ㄴ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "ning",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_043",
+    "block": "막",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "mak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_044",
+    "block": "만",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "man",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_045",
+    "block": "맏",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "mat",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_046",
+    "block": "말",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "mal",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_047",
+    "block": "맘",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "mam",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_048",
+    "block": "맙",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "map",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_049",
+    "block": "망",
+    "initial": "ㅁ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "mang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_050",
+    "block": "먹",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "meok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_051",
+    "block": "먼",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "meon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_052",
+    "block": "먿",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "meot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_053",
+    "block": "멀",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "meol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_054",
+    "block": "멈",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "meom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_055",
+    "block": "멉",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "meop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_056",
+    "block": "멍",
+    "initial": "ㅁ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "meong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_057",
+    "block": "믹",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "mik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_058",
+    "block": "민",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "min",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_059",
+    "block": "믿",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "mit",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_060",
+    "block": "밀",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "mil",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_061",
+    "block": "밈",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "mim",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_062",
+    "block": "밉",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "mip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_063",
+    "block": "밍",
+    "initial": "ㅁ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "ming",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_064",
+    "block": "박",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "bak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_065",
+    "block": "반",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "ban",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_066",
+    "block": "받",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "bat",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_067",
+    "block": "발",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "bal",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_068",
+    "block": "밤",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "bam",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_069",
+    "block": "밥",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "bap",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_070",
+    "block": "방",
+    "initial": "ㅂ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "bang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_071",
+    "block": "벅",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "beok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_072",
+    "block": "번",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "beon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_073",
+    "block": "벋",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "beot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_074",
+    "block": "벌",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "beol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_075",
+    "block": "범",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "beom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_076",
+    "block": "법",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "beop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_077",
+    "block": "벙",
+    "initial": "ㅂ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "beong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_078",
+    "block": "빅",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "bik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_079",
+    "block": "빈",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "bin",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_080",
+    "block": "빋",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "bit",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_081",
+    "block": "빌",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "bil",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_082",
+    "block": "빔",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "bim",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_083",
+    "block": "빕",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "bip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_084",
+    "block": "빙",
+    "initial": "ㅂ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "bing",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_085",
+    "block": "악",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "ak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_086",
+    "block": "안",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "an",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_087",
+    "block": "앋",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "at",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_088",
+    "block": "알",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "al",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_089",
+    "block": "암",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "am",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_090",
+    "block": "압",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "ap",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_091",
+    "block": "앙",
+    "initial": "ㅇ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "ang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_092",
+    "block": "억",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "eok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_093",
+    "block": "언",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "eon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_094",
+    "block": "얻",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "eot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_095",
+    "block": "얼",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "eol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_096",
+    "block": "엄",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "eom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_097",
+    "block": "업",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "eop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_098",
+    "block": "엉",
+    "initial": "ㅇ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "eong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_099",
+    "block": "익",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "ik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_100",
+    "block": "인",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "in",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_101",
+    "block": "읻",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "it",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_102",
+    "block": "일",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "il",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_103",
+    "block": "임",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "im",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_104",
+    "block": "입",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "ip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_105",
+    "block": "잉",
+    "initial": "ㅇ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "ing",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_106",
+    "block": "학",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㄱ",
+    "romanization": "hak",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_107",
+    "block": "한",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㄴ",
+    "romanization": "han",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_108",
+    "block": "핟",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㄷ",
+    "romanization": "hat",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_109",
+    "block": "할",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㄹ",
+    "romanization": "hal",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_110",
+    "block": "함",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㅁ",
+    "romanization": "ham",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_111",
+    "block": "합",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㅂ",
+    "romanization": "hap",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_112",
+    "block": "항",
+    "initial": "ㅎ",
+    "medial": "ㅏ",
+    "final": "ㅇ",
+    "romanization": "hang",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_113",
+    "block": "헉",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㄱ",
+    "romanization": "heok",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_114",
+    "block": "헌",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㄴ",
+    "romanization": "heon",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_115",
+    "block": "헏",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㄷ",
+    "romanization": "heot",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_116",
+    "block": "헐",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㄹ",
+    "romanization": "heol",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_117",
+    "block": "험",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㅁ",
+    "romanization": "heom",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_118",
+    "block": "헙",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㅂ",
+    "romanization": "heop",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_119",
+    "block": "헝",
+    "initial": "ㅎ",
+    "medial": "ㅓ",
+    "final": "ㅇ",
+    "romanization": "heong",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_120",
+    "block": "힉",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㄱ",
+    "romanization": "hik",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_121",
+    "block": "힌",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㄴ",
+    "romanization": "hin",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_122",
+    "block": "힏",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㄷ",
+    "romanization": "hit",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_123",
+    "block": "힐",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㄹ",
+    "romanization": "hil",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_124",
+    "block": "힘",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㅁ",
+    "romanization": "him",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_125",
+    "block": "힙",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㅂ",
+    "romanization": "hip",
+    "structure": "CVC",
+    "difficulty": 2
+  },
+  {
+    "id": "syl_cvc_126",
+    "block": "힝",
+    "initial": "ㅎ",
+    "medial": "ㅣ",
+    "final": "ㅇ",
+    "romanization": "hing",
+    "structure": "CVC",
+    "difficulty": 2
+  }
+]
